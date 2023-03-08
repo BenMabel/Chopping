@@ -17,9 +17,9 @@ const LandingPage = () => {
                     <h1 className='title' >Choppings</h1>
                     <h2>Chop “buka” in style!</h2>
                     <p>
-                        Lorem ipsumlorem ipsum Lorem ipsumlo
-                        Lorem ipsumlorem ipsum Lorem ipsumlo
-                        Lorem ipsumlorem ipsum Lorem ipsumlo
+                        Your local food restaurant - "Buka", is
+                        now available at your fingertips with
+                        just one click
                     </p>
                     <div className='flex'>
                         <Link className='loginBtn' to='/login'>Log in</Link>
