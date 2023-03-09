@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Chopping/static/css/main.51a525c3.css",
-    "main.js": "/Chopping/static/js/main.64ab0f6c.js",
+    "main.js": "/Chopping/static/js/main.d20d0f66.js",
     "static/media/landingpage.png": "/Chopping/static/media/landingpage.8aa4276975670fbfca1d.png",
     "static/media/services.png": "/Chopping/static/media/services.f16652b488081752a141.png",
     "static/media/today1.png": "/Chopping/static/media/today1.c8c31fdcd2d3e1416e5b.png",
@@ -14,10 +14,10 @@
     "static/media/fav1.png": "/Chopping/static/media/fav1.c5c49fca6b6081461f65.png",
     "index.html": "/Chopping/index.html",
     "main.51a525c3.css.map": "/Chopping/static/css/main.51a525c3.css.map",
-    "main.64ab0f6c.js.map": "/Chopping/static/js/main.64ab0f6c.js.map"
+    "main.d20d0f66.js.map": "/Chopping/static/js/main.d20d0f66.js.map"
   },
   "entrypoints": [
     "static/css/main.51a525c3.css",
-    "static/js/main.64ab0f6c.js"
+    "static/js/main.d20d0f66.js"
   ]
 }
